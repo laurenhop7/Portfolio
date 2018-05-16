@@ -1,0 +1,103 @@
+/*heading*/
+
+.flex-container {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.ccctc-logo {
+	width: 25%;
+	max-width: 250px;
+	max-height: 87px;
+}
+.title-right {
+	justify-content: flex-end;
+	width: 75%;
+}
+
+.my-name {
+	font-family: 'Kaushan Script', cursive;
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: right;
+	font-size: 50px;
+	color: #2d3c49;
+}
+
+.my-title {
+	font-family: 'Helvetica', Arial, sans-serif;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: right;
+	color: #2d3c49;
+}
+
+hr {
+  width: 100%;
+  height: 2px; 
+  background-color: #7d97ad;
+}
+
+/*main*/
+
+.ccctc-building {
+	width: 100%;
+}
+.featured-work {
+	font-family: 'Helvetica', Arial, sans-serif;
+	text-transform: uppercase;
+	color: #7d97ad;
+}
+
+.main-flex {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.flex-1 {
+	width: 30%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+}
+
+.flex-2 {
+	width: 30%;
+}
+
+.flex-3 {
+	width: 30%;
+	margin-left: 2.5%;
+	margin-right: 2.5%
+}
+
+.flex-4 {
+	width: 33%;
+	font-family: 'Helvetica', Arial, sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #2d3c49;
+}
+
+.flex-5 {
+	width: 33%;
+	font-family: 'Helvetica', Arial, sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #2d3c49;
+}
+
+.flex-6 {
+	width: 33%;
+	font-family: 'Helvetica', Arial, sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #2d3c49;
+}
